@@ -1,0 +1,11 @@
+Tabla de verdad del operador AND (P AND Q)
+
+P       | Q       | P AND Q
+---------------------------
+V (1)   | V (1)   | V (1)
+V (1)   | F (0)   | F (0)
+F (0)   | V (1)   | F (0)
+F (0)   | F (0)   | F (0)
+
+Situación cotidiana:
+Para poder ingresar a un juego mecánico en un parque, la persona debe tener su boleto de entrada (P) Y cumplir con la estatura mínima (Q). Si falla cualquiera de las dos condiciones o ambas, no puede ingresar.

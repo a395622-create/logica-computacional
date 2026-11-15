@@ -18,3 +18,4 @@ Indicar si el número es par o impar.
 | 8 | Par |
 | 7 | Impar |
 | 10 | Par |
+| -4 | Par |
